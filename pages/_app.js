@@ -7,7 +7,7 @@ import { ThemeProvider } from '@mui/material/styles';
 import CssBaseline from '@mui/material/CssBaseline';
 import { CacheProvider } from '@emotion/react';
 import Layout from '../src/components/Layout';
-import theme from '../src/theme';
+import theme from '../src/Theme';
 import createEmotionCache from '../src/createEmotionCache';
 import { Provider } from 'react-redux'
 
