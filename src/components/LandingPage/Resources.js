@@ -48,6 +48,19 @@ export default function Resources() {
                                                 </CardContent>
                                             </CardActionArea>
                                         </Card>
+                                        <Card sx={{ maxWidth: 414 , margin: '0px 10px' }}>
+                                            <CardActionArea>
+                                                <CardMedia
+                                                    component="img"
+                                                    height="264"
+                                                    width="394"
+                                                    image="https://blogmigration.kinsta.cloud/wp-content/uploads/2022/02/76edde93ea6402d5818fbc03767aeda0-300x200.jpg"
+                                                    alt="green iguana"/>
+                                                <CardContent>
+                                                    <h3>How to buy Crypto</h3>
+                                                </CardContent>
+                                            </CardActionArea>
+                                        </Card>
                                     </div>
                                 </div>
                             </div>

@@ -13,6 +13,12 @@ const theme = createTheme({
             main: red.A400,
         },
     },
+    typography: {
+        fontFamily: [
+          'Poppins',
+          'sans-serif'
+        ].join(','),
+     }
 });
   
 export default theme;
