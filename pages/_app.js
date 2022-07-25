@@ -1,5 +1,7 @@
 import '../styles/globals.css'
 import '../styles/NavHeader.css'
+import '../styles/Collection.css'
+import '../styles/Asset.css'
 import * as React from 'react';
 
 import PropTypes from 'prop-types';

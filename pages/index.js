@@ -1,5 +1,4 @@
 import React from 'react'
-import styles from '../styles/Home.module.css'
 import { useSelector , useDispatch } from 'react-redux'
 import { Authenticate } from '../src/actions/wow'
 import { wrapper } from '../store';
@@ -25,7 +24,7 @@ export default function Home() {
         <CreateAndSell />
         <Resources />
         <BrowseCategory />
-        <MeetNFT />
+        {/* <MeetNFT /> */}
       </div>
       <Footer />
     </React.Fragment>
