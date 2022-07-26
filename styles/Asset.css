@@ -58,10 +58,10 @@
     border-radius: 10px;
 }
 
-.euUQqP {
+/* .euUQqP {
     -webkit-box-align: center;
     align-items: center;
-}
+} */
 .lbhdXq {
     height: 257px;
     width: 350px;
@@ -76,11 +76,11 @@
     color: rgb(53, 56, 64);
 }
 
-.jnCfKq {
+/* .jnCfKq {
     font-weight: 600;
     font-size: 16px;
     color: rgb(4, 17, 29);
-}
+} */
 .ghXVmk {
     margin-bottom: 4px;
 }
@@ -93,9 +93,9 @@
     margin-bottom: 8px;
 }
 
-.jvONNN {
+/* .jvONNN {
     flex-direction: column;
-}
+} */
 
 .UPKyL {
     margin-bottom: 24px;
@@ -155,10 +155,10 @@
     min-height: 26px;
 }
 
-.elyzfO {
+/* .elyzfO {
     color: rgb(32, 129, 226);
     text-decoration: none;
-}
+} */
 .eLeqps .AssetForm--info-cta {
     cursor: pointer;
     display: inline-block;
@@ -166,7 +166,7 @@
     color: rgb(112, 122, 131);
     margin-left: 4px;
 }
-.infdiL {
+/* .infdiL {
     display: inline-flex;
     -webkit-box-align: center;
     align-items: center;
@@ -174,7 +174,7 @@
     font-family: inherit;
     border: 0px;
     background: inherit;
-}
+} */
 .fTKTZr {
     text-rendering: optimizelegibility;
     font-feature-settings: "liga" !important;
@@ -244,13 +244,13 @@
     font-feature-settings: "liga" !important;
     font-size: 22px !important;
 }
-.bMAZiO {
+/* .bMAZiO {
     margin-bottom: 0px;
     margin-left: 0px;
     margin-right: 0px;
     max-height: 22px;
     pointer-events: none;
-}
+} */
 .hZdMrQ {
     display: inline-flex;
     flex-direction: row;
@@ -269,9 +269,9 @@
     color: rgb(32, 129, 226);
 }
 
-.hiIVBZ {
+/* .hiIVBZ {
     flex-direction: row;
-}
+} */
 
 .cOLPmp .AssetFormTraitSection--item .AssetFormTraitSection--content .AssetFormTraitSection--content-main .AssetFormTraitSection-input-label, .cOLPmp .AssetFormTraitSection--item .AssetFormTraitSection--content .AssetFormTraitSection--content-main .AssetFormTraitSection--input-header {
     margin: 0px;
@@ -288,11 +288,11 @@
     margin-left: 16px;
 }
 
-.fTdhIH {
+/* .fTdhIH {
     text-rendering: optimizelegibility;
     font-feature-settings: "liga" !important;
     font-size: 24px !important;
-}
+} */
 
 .cOLPmp .AssetFormTraitSection--item .AssetFormTraitSection--content {
     display: flex;
